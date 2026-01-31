@@ -4,7 +4,7 @@ This is a full-stack quiz application with a React frontend and Flask backend.
 
 ## Live Demo
 
-The frontend is deployed on GitHub Pages at: https://vishal-15-12-2005.github.io/QUIZ
+
 
 ## Frontend Deployment (GitHub Pages)
 
