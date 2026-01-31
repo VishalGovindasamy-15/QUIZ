@@ -36,7 +36,7 @@ Your site will be available at: https://vishal-15-12-2005.github.io/QUIZ
 If the page loads but content doesn't show:
 
 1. Check that GitHub Pages is enabled in your repository settings
-2. Verify your `homepage` field in `quiz/package.json` is set to `"https://vishal-15-12-2005.github.io/QUIZ"`
+2. Verify your `homepage` field in `quiz/package.json` is set to `"https://VishalGovindasamy-15/QUIZ"`
 3. Ensure your React Router is configured for a subdirectory (the `/QUIZ/` path) - this has been fixed in the latest deployment
 4. The included `404.html` file should help with routing issues
 5. Wait a few minutes after deployment for GitHub Pages to fully update
